@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/CraneWing/img-finder/issues"
   },
-  "homepage": "https://github.com/CraneWing/img-finder#readme"
+  "homepage": "https://github.com/CraneWing/img-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cheerio": "^0.20.0",
+    "dotenv": "^2.0.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "google-images": "^1.0.0",
+    "mongoose": "^4.4.3",
+    "request": "^2.69.0"
+  }
 }
